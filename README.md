@@ -1,6 +1,6 @@
 # RSSI Getter
 
-A simple Python script that prints your clients RSSI and APs POV of your clients RSSI.
+A simple Python script that prints your clients RSSI and APs POV of your clients RSSI. This works **only on Macbooks** (grabs the client RSSI using "airport -I")
 
 ## Dependencies
 
