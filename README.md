@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage Examples
-Change the info in constants.py to suit your needs.
+**Change the info in constants.py** to suit your needs.
 
 Usage example, and output:
 ```
